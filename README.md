@@ -10,11 +10,11 @@ could be vital for planetary defense.
 
 ## Table of Contents
 - [EDA](#EDA)
-- [Find The Outlier](#Find The Outlier)
+- [Find The Outlier](#Find_The_Outlier)
 - [Visilization](#Visilization)
-- [Handle Imbalanced Data](#Handle Imbalanced Data)
+- [Handle Imbalanced Data](#Handle_Imbalanced_Data)
 - [Models](#Models)
-- [Random Forest](#Random Forest)
+- [Random Forest](#Random_Forest)
 - [XGBoost](#XGBoost)
 - [Evaluation](#Evaluation)
 
